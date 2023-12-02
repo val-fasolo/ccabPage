@@ -1,0 +1,128 @@
+.header {
+  display: flex;
+  position: relative;
+  text-align: center;
+  background-color: #b8084a;
+  width: 100%;
+  height: 50px;
+}
+
+.front-notification {
+  width: 50%;
+  text-align: center;
+  padding: 15px;
+}
+h4 {
+  color: #ffffff;
+  font-family: "Quicksand", Sans-serif;
+  font-size: 22px;
+  margin: auto;
+  font-weight: 400;
+  float: right;
+}
+
+.front-button {
+  position: relative;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  font-family: "Quicksand", Sans-serif;
+  font-size: 14px;
+}
+
+.button1 {
+  position: relative;
+  top: 7px;
+  float: left;
+  padding: 5px;
+  background-color: #013146;
+  width: 100px;
+  height: 20px;
+}
+
+.white-square {
+  height: 10px;
+  width: 10px;
+  background-color: #ffffff;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+nav.navigation {
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+section.logosec {
+  width: 15%;
+  display: inline-block;
+}
+
+.logo1 {
+  display: inline-block;
+}
+
+section.menusec {
+  width: 60%;
+  display: inline-block;
+}
+
+.menu {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  display: inline-block;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  color: black;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-family: "Quicksand", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+section.donatesec {
+  width: 15%;
+  display: inline-block;
+}
+
+.donate {
+  width: 190px;
+  height: 61px;
+  background-color: #b8084a;
+  border-radius: 360px;
+}
+
+button a {
+  font-family: "Quicksand", Sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration: none;
+  text-align: center;
+  color: #ffffff;
+}
+
+section.searchsec {
+  width: 5%;
+  display: inline-block;
+}
+.img-over {
+  float: left;
+  clear: both;
+}
+input {
+  display: none;
+}
